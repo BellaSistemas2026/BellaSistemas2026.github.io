@@ -1,1 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Profesional - Soledad Bella Arce Chuta</title>
 
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #243b53;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        header p {
+            font-size: 18px;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        section {
+            background: white;
+            margin-bottom: 20px;
+            padding: 25px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #243b53;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #555;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Soledad Bella Arce Chuta</h1>
+        <p>Profesional en Ingeniería de Sistemas</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Perfil profesional</h2>
+            <p>
+                Profesional del área de Ingeniería de Sistemas, con interés en
+                tecnología, desarrollo de sistemas de información, gestión de
+                procesos y transformación digital.
+            </p>
+            <p>
+                Actualmente fortaleciendo mis conocimientos mediante estudios
+                de maestría relacionados con las Tecnologías de la Información
+                y las Comunicaciones.
+            </p>
+        </section>
+
+        <section>
+            <h2>Formación académica</h2>
+            <ul>
+                <li>Ingeniería de Sistemas.</li>
+                <li>Estudios de Maestría.</li>
+                <li>Formación continua en tecnologías de información.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Áreas de interés</h2>
+            <ul>
+                <li>Inteligencia Artificial.</li>
+                <li>Desarrollo de Sistemas de Información.</li>
+                <li>Gestión de tecnologías de información.</li>
+                <li>Transformación digital.</li>
+                <li>Análisis y diseño de sistemas.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Objetivo profesional</h2>
+            <p>
+                Aplicar las tecnologías de información y la Inteligencia
+                Artificial para desarrollar soluciones que contribuyan a
+                mejorar los procesos y la toma de decisiones en las
+                organizaciones.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Práctica 1 - GitHub | 2026</p>
+    </footer>
+
+</body>
+</html>
