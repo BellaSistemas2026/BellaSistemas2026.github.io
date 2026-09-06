@@ -1,7 +1,13 @@
-OLEDAD BELLA ARCE CHUTA
+SOLEDAD BELLA ARCE CHUTA
 
 📍 Arequipa, Perú
 📧 arcechuta.s@gmail.com | arcechuta.s@outlook.es
+
+Universidad Nacional del Altiplano
+Facultad de Ingeniería Estadística e informática.
+Maestría en informática 
+Curso: "GERENCIA DE PROYECTOS DE TICs"
+Docente: Prof. M Sc. Romel P. Melgarejo Bolivar
 
 👩‍💻 PERFIL PROFESIONAL
 
